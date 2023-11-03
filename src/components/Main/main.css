@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: azure;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 20px);
+  margin: auto;
+}

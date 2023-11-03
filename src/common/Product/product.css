@@ -1,0 +1,24 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  width: 280px;
+  height: 400px;
+  margin: 20px;
+  background-color: #f7f5f2;
+  border-radius: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.description {
+  padding-left: 40px;
+  margin-top: 20px;
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone",
+    "description": "iPhone 14Pro",
+    "delivery": "Today by 7:00PM",
+    "price": "1,39,999",
+    "image": "./IPhone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung",
+    "description": "Galaxy s23",
+    "delivery": "Tomorrow by 3:00PM",
+    "price": "99,999",
+    "image": "./Samsung.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Oppo",
+    "description": "Oppo z87",
+    "delivery": "Wednesday by 2:00PM",
+    "price": "44,599",
+    "image": "./Oppo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vivo",
+    "description": "Vivo v67",
+    "delivery": "Today by 6:00PM",
+    "price": "36,999",
+    "image": "./Vivo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "OnePlus",
+    "description": "OnePlus CE 3 Nord",
+    "delivery": "Today by 5:00PM",
+    "price": "66,999",
+    "image": "./OnePlus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "iPhone",
+    "description": "iPhone 14Pro",
+    "delivery": "Today by 7:00PM",
+    "price": "1,39,999",
+    "image": "./IPhone.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Samsung",
+    "description": "Galaxy s23",
+    "delivery": "Tomorrow by 3:00PM",
+    "price": "99,999",
+    "image": "./Samsung.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oppo",
+    "description": "Oppo z87",
+    "delivery": "Wednesday by 2:00PM",
+    "price": "44,599",
+    "image": "./Oppo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Vivo",
+    "description": "Vivo v67",
+    "delivery": "Today by 6:00PM",
+    "price": "36,999",
+    "image": "./Vivo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "OnePlus",
+    "description": "OnePlus CE 3 Nord",
+    "delivery": "Today by 5:00PM",
+    "price": "66,999",
+    "image": "./OnePlus.jpg"
+  },
+  {
+    "id": 11,
+    "name": "iPhone",
+    "description": "iPhone 14Pro",
+    "delivery": "Today by 7:00PM",
+    "price": "1,39,999",
+    "image": "./IPhone.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Samsung",
+    "description": "Galaxy s23",
+    "delivery": "Tomorrow by 3:00PM",
+    "price": "99,999",
+    "image": "./Samsung.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Oppo",
+    "description": "Oppo z87",
+    "delivery": "Wednesday by 2:00PM",
+    "price": "44,599",
+    "image": "./Oppo.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Vivo",
+    "description": "Vivo v67",
+    "delivery": "Today by 6:00PM",
+    "price": "36,999",
+    "image": "./Vivo.jpg"
+  },
+  {
+    "id": 15,
+    "name": "OnePlus",
+    "description": "OnePlus CE 3 Nord",
+    "delivery": "Today by 5:00PM",
+    "price": "66,999",
+    "image": "./OnePlus.jpg"
+  },
+  {
+    "id": 16,
+    "name": "OnePlus",
+    "description": "OnePlus CE 3 Nord",
+    "delivery": "Today by 5:00PM",
+    "price": "66,999",
+    "image": "./OnePlus.jpg"
+  }
+]
